@@ -7,7 +7,8 @@ In this analysis, we build and evaluated several machine learning models to asse
 - Balanced Random Forest Classifier, combines resampling ad model training in a single step.
 - Easy Ensemble Classifier, combines resampling ad model training in a single step.
 - Use resampling to attempt to address class imbalance. 
-- Oversample the data using the RandomOverSampler and SMOTE algorithms.  
+- Oversample the data using the RandomOverSampler and SMOTE algorithms.
+- Use a combination approach with the SMOTEENN algorithm.  
   
 # Analysis 
 
